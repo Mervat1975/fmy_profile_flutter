@@ -1,3 +1,7 @@
+//Author: Mervat Mustafa
+//Date: March 23,2022
+//Description: Edit profile page, allows the user to view the profile data filed in editable mode
+//to update the data once tapping on the save button.
 import 'package:animated_theme_switcher/animated_theme_switcher.dart';
 import 'package:flutter/material.dart';
 import 'package:my_profile/model/user.dart';

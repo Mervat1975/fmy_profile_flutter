@@ -1,3 +1,8 @@
+//Author: Mervat Mustafa
+//Date: March 23,2022
+//Description: profile page, allows the user to view some of thier profile data
+//(image , name , email , about)
+
 import 'package:flutter/material.dart';
 import 'package:my_profile/model/user.dart';
 import 'package:my_profile/utils/user_preferences.dart';
